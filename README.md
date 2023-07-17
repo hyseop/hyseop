@@ -5,7 +5,7 @@
 </summary>
   
   > 세종대학교 경제통상학과</br>
-  > https://hyseop.tistroy.com
+  > https://hyseop.tistory.com
   
   > 국비 지원 멀티캠퍼스 풀스택 개발자 과정 13회차 (2023.03 ~ )
 </details>
