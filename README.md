@@ -1,17 +1,8 @@
-<details>
-<summary>
-
   ### journey to dev</br>
-</summary>
 
-  > 국비 지원, 멀티캠퍼스 풀스택 개발자 과정 13회차 (2023.03.13 ~ 08.24)
-</details>
-
-<details>
-<summary>
+  > 국비 지원, 멀티캠퍼스 풀스택 개발자 과정 13회차 (23.03.13 ~ 08.24) </br>
+  > OJT, 퍼포마스 (23.08.10 ~ 08.24)
 
   ### before journey</br>
-</summary>
 
-  > 세종대학교 경제통상학과
-</details>
+  > 세종대학교 경제통상학과 (15.03 ~ 19.02)
